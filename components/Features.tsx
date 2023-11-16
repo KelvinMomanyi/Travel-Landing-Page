@@ -44,7 +44,7 @@ const Features = () => {
 
 type FeatureItemProps = {
   title?: string,
-  icon?: string,
+  icon: string,
   description?: string
 }
 
